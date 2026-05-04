@@ -146,10 +146,9 @@ notebooks/
     02_event_output_visualization.ipynb
 
 data/
-    raw_attribution_samples/
-        aapl_h5_sample_outputs.jsonl
-    processed/
-        aapl_h5_selected_events.json
+    aapl_h5_sample_outputs.jsonl
+    aapl_h5_selected_events.json
+    aapl_h5_earnings_events.json
 
 figures/
     aapl_event_table.png
