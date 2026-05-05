@@ -141,7 +141,6 @@ OpenAI API access is required only if rerunning non-earnings event attribution. 
 ## Repository Structure
 
 ```text
-
 01_event_extraction_pipeline.ipynb
 02_event_output_visualization.ipynb
 
