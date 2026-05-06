@@ -60,11 +60,11 @@ Under development:
 
 ## Sample Diagnostics
 
-For the current AAPL H=5 sample, 89 candidate non-earnings windows were evaluated and 28 were retained.
+For the current AAPL H=5 sample, 86 candidate non-earnings windows were evaluated and 23 were retained.
 
-Among retained events, mean event-existence agreement was 90.7%, with 19 / 28 retained events receiving unanimous event agreement. Mean category agreement was 99.3%, with 27 / 28 retained events receiving full category agreement.
+Among retained events, mean event-existence agreement was 86.1%, with 12 / 23 retained events receiving unanimous event agreement. Mean category agreement was 97.2%, with 20 / 23 retained events receiving full category agreement.
 
-Across all windows with at least one event vote, mean category agreement was 97.1%.
+Across all windows with at least one event vote, mean category agreement was 96.6%.
 
 This category agreement pattern suggests that the pipeline is not simply forcing explanations onto large price moves. Most threshold-selected windows are rejected, while retained windows show highly stable event categories across repeated runs. This indicates that meaningful event structure dominates noise in the retained set.
 
